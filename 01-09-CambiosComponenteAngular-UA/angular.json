@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mi-primera-app"
+  "defaultProject": "mi-primera-app",
+  "cli": {
+    "analytics": "be4c28cf-e378-4a38-bfde-fb778f03ee77"
+  }
 }
